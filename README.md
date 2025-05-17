@@ -1,52 +1,39 @@
-MEDICANAL HealthCare Website
-Live Demo | GitHub Repository
+# **MEDICANAL HealthCare Website**
 
-Overview
-MEDICANAL is a responsive and user-friendly healthcare website designed to provide users with easy access to medical information, healthcare services, and contact options for healthcare professionals. The website is built with modern web technologies to ensure seamless navigation, fast loading, and an engaging user experience.
+[Live Demo](https://riyasingh2005.github.io/MEDICANAL-HealthCare-Website/) | [GitHub Repo](https://github.com/riyasingh2005/MEDICANAL-HealthCare-Website)
 
-Features
-Responsive Design: Fully optimized for desktop, tablet, and mobile devices.
+---
 
-Healthcare Services: Provides detailed information about various healthcare services and specialties.
+## **Project Overview**
 
-Appointment Booking: Users can easily contact healthcare providers (via provided contact details) for appointments or inquiries.
+**MEDICANAL** is a static, responsive healthcare website providing users with reliable medical information and healthcare service details. Designed with a clean UI and easy navigation, it offers a user-friendly experience across all devices.
 
-Informative Content: Clear, factual, and medically relevant information aimed at educating users about health and wellness.
+---
 
-Contact Form: Simple contact form for users to reach out for more information or support.
+## **Features**
 
-Clean UI/UX: Easy-to-navigate layout with an intuitive interface.
+- **Responsive Design:** Optimized for mobile, tablet, and desktop devices  
+- **Healthcare Services:** Detailed information on medical services offered  
+- **Contact Form:** Easy-to-use form for inquiries  
+- **Clean UI:** Simple and intuitive interface  
+- **Static Website:** No backend or database integration
 
-Technologies Used
-HTML5 for structure
+---
 
-CSS3 for styling and responsive design
+## **Tech Stack**
 
-JavaScript for interactivity and client-side validation
+- **HTML5**  
+- **CSS3**  
+- **JavaScript** (Client-side only)  
+- **GitHub Pages** (Hosting)
 
-GitHub Pages for hosting the live website
+---
 
+## **Getting Started**
 
-This project is purely a static website hosted on GitHub Pages. No installation is required.
+### To run locally:
 
-To run the project locally:
-
-Clone the repository:
-
+```bash
 git clone https://github.com/riyasingh2005/MEDICANAL-HealthCare-Website.git
-Open the index.html file in any modern web browser.
-
-Security & Safety Notice
-This project does not contain any backend server code, database, or user authentication mechanisms. It is a static informational website only.
-
-No personal user data is collected or stored.
-
-The website does not perform any kind of script injection or run third-party code that could compromise security.
-
-All JavaScript used is client-side only and does not communicate with any external servers.
-
-There are no malicious scripts, trackers, or phishing components in this project.
-
-The project is fully open-source and transparent; code can be reviewed by anyone in the repository.
-
-The project has been tested on major browsers and platforms and is safe to use and host.
+cd MEDICANAL-HealthCare-Website
+# Open index.html in your browser
