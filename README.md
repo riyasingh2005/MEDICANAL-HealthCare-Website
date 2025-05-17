@@ -36,7 +36,7 @@
 ```bash
 git clone https://github.com/riyasingh2005/MEDICANAL-HealthCare-Website.git
 cd MEDICANAL-HealthCare-Website
- Open index.html in your browser 
+#Open index.html in your browser 
 
 ### **Security & Safety**
 This is a static website only, no backend or databases involved.
