@@ -29,15 +29,6 @@
 
 ---
 
-## **Getting Started**
-
-### To run locally:
-
-```bash
-git clone https://github.com/riyasingh2005/MEDICANAL-HealthCare-Website.git
-cd MEDICANAL-HealthCare-Website
-#Open index.html in your browser 
-
 ### **Security & Safety**
 This is a static website only, no backend or databases involved.
 
@@ -50,3 +41,16 @@ Fully open-source and transparent — code is available for review.
 Tested on all major browsers — safe and secure to use.
 
 No phishing or malicious content present in this project.
+
+---
+
+## **Getting Started**
+
+### To run locally:
+
+```bash
+git clone https://github.com/riyasingh2005/MEDICANAL-HealthCare-Website.git
+cd MEDICANAL-HealthCare-Website
+#Open index.html in your browser 
+
+
