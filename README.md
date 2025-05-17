@@ -36,4 +36,17 @@
 ```bash
 git clone https://github.com/riyasingh2005/MEDICANAL-HealthCare-Website.git
 cd MEDICANAL-HealthCare-Website
-# Open index.html in your browser
+ Open index.html in your browser 
+
+### **Security & Safety**
+This is a static website only, no backend or databases involved.
+
+No personal data collection or storage.
+
+No third-party scripts or trackers used.
+
+Fully open-source and transparent — code is available for review.
+
+Tested on all major browsers — safe and secure to use.
+
+No phishing or malicious content present in this project.
